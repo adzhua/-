@@ -1,6 +1,6 @@
 阅读理解
-1: Text Understanding with the Attention Sum Reader Network
-   AS Reader
+1: Text Understanding with the Attention Sum Reader Network\n
+   AS Reader\n
    论文地址：https://arxiv.org/pdf/1603.01547.pdf
    代码：https://github.com/rkadlec/asreader
 2: Consensus Attention-based Neural Networks for Chinese Reading Comprehension
